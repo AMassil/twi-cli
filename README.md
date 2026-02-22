@@ -57,7 +57,7 @@ brew install curl jq fzf streamlink mpv gawk grep
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/twi-cli.git
+git clone https://github.com/AMassil/twi-cli.git
 cd twi-cli
 chmod +x twi-cli.sh
 ```
