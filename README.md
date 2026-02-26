@@ -2,6 +2,8 @@
 
 A terminal-based CLI tool for browsing and watching Twitch streams, heavily inspired by [ani-cli](https://github.com/pystardust/ani-cli). Navigate channels, categories, and your personal follow list entirely from the command line using an interactive fuzzy finder interface.
 
+[Capture vidéo du 2026-02-26 22-23-11.webm](https://github.com/user-attachments/assets/e3c0c6a1-db2a-404b-9db2-40bc8dbab7fd)
+
 ---
 
 ## Features
